@@ -1,4 +1,4 @@
-# Android Native Development Kit (NDK)
+"StarMwsx"# Android Native Development Kit (NDK)
 
 The NDK allows Android application developers to include native code in their
 Android application packages, compiled as JNI shared libraries.
